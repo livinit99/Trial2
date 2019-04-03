@@ -1,0 +1,8 @@
+echo "# Trial2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/livinit99/Trial2.git
+git push -u origin master
+
+<h1>LIVINIT</h1>
